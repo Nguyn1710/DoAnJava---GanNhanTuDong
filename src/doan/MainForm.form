@@ -201,7 +201,7 @@
                       </Group>
                       <Group type="102" alignment="1" attributes="0">
                           <Component id="jButton5" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace min="15" pref="222" max="32767" attributes="0"/>
+                          <EmptySpace min="15" pref="229" max="32767" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
@@ -237,7 +237,7 @@
         </Container>
         <Component class="javax.swing.JButton" name="jButton5">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Ch&#x1ecd;n File"/>
+            <Property name="text" type="java.lang.String" value="heeel"/>
           </Properties>
         </Component>
       </SubComponents>
